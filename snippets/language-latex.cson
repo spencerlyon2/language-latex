@@ -101,7 +101,7 @@
   'varepsilon':
     'prefix': 'epsilon'
     'body': 'varepsilon'
-  'epsilon':
+  'epsilon2':
     'prefix': 'varepsilon'
     'body': 'epsilon'
   'zeta':
@@ -116,7 +116,7 @@
   'vartheta':
     'prefix': '\\\\theta'
     'body': '\\\\vartheta'
-  'theta':
+  'theta2':
     'prefix': '\\\\vartheta'
     'body': '\\\\theta'
   'iota':
@@ -158,7 +158,7 @@
   'varphi':
     'prefix': '\\\\phi'
     'body': '\\\\varphi'
-  'phi':
+  'phi2':
     'prefix': '\\\\varphi'
     'body': '\\\\phi'
   'chi':
